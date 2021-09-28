@@ -1,4 +1,4 @@
-rootProject.name = "utility-ktx"
+rootProject.name = "spring-ktx"
 include(
     "core",
     "webflux:core",
